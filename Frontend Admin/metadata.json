@@ -1,0 +1,6 @@
+
+{
+  "name": "Windows Admin Security Dashboard",
+  "description": "A high-fidelity administrative control panel for managing endpoint security permissions, featuring real-time configuration updates and visual analytics integration.",
+  "requestFramePermissions": []
+}

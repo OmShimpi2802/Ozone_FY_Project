@@ -1,0 +1,5 @@
+PS D:\DLP-Notepad-Protector\FY project Admin\Frontend Admin> npm run dev
+// For running the Frontend Project.
+
+PS D:\DLP-Notepad-Protector\FY project Admin\Backend Server> node server.ts
+// For running the Backend Project.
